@@ -1,0 +1,9 @@
+*.pem
+
+# Terraform
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.tfplan.*
+*.tfvars
+*.csv
